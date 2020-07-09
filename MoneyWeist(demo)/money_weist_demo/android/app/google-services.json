@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "427310950175",
+    "firebase_url": "https://money-weist-demo.firebaseio.com",
+    "project_id": "money-weist-demo",
+    "storage_bucket": "money-weist-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427310950175:android:eafd995fc81a6673ab322a",
+        "android_client_info": {
+          "package_name": "com.clestdev.money_weist_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427310950175-pn74eg51sp5i0l3dg9so07tbpevktjlv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clestdev.money_weist_demo",
+            "certificate_hash": "8ec78ac3f67cc0caf87f67319021551fb3a6bb99"
+          }
+        },
+        {
+          "client_id": "427310950175-cples4905krfb3h78lkfovvmlf3qnv75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3L9SYbIiL8jOgp6ATSMZPLOtnnPqvKXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427310950175-cples4905krfb3h78lkfovvmlf3qnv75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
